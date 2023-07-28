@@ -1,0 +1,17 @@
+                            *Variables*
+
+A name which can store value in diffrent data types
+
+Rules of variables 
+1. Valid name must be requierd.
+2. variable can't start with number.
+3. In variables we can't use special charater in between of variable name.
+4. It is a case sensitive language.
+
+var = "Rupesh"
+var = 123
+var = 1.0
+var = 0
+var = true
+
+
