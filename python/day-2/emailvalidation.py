@@ -4,7 +4,7 @@ j = 0
 d=0
 if len(email) >= 6:
     if email[0].isalpha():
-        if ('@' in email) and email.count('@') >=1:
+        if ('@' in email) and email.count('@') <=1:
             for i in email:
                 if i==i.isspace():
                     k=1
